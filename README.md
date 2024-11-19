@@ -17,8 +17,9 @@ This repository hosts a full-stack Todo List application designed to allow users
 ## Project Structure
 
 The project is divided into two main parts:
-- **Frontend**: Located in the `frontend/` directory with its own [README](frontend/README.md).
-- **Backend**: Located in the `backend/` directory with its own [README](backend/README.md).
+
+- **Frontend**: Located in the `frontend/` directory with its own [README](./Frontend/README.md).
+- **Backend**: Located in the `backend/` directory with its own [README](./Backend/README.md).
 
 ## Features
 
