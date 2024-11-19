@@ -1,7 +1,11 @@
 import mongoose from "mongoose";
 
 // var db = "mongodb://localhost:27017/Main?authMechanism=DEFAULT&authSource=admin";
-var db = "mongodb://localhost:27017";
+// var db = "mongodb://localhost:27017";
+
+// included the database uri for the container
+var db = "mongodb://database:27017/todo_db";
+
 
 const connectDb = () => {
   return mongoose
